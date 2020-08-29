@@ -1,4 +1,1 @@
-# Today Monsh learned
-
-## Visit here
-https://monsh-git.github.io/TIL/
+# [Welcome. Click here to see what I've learnt, please](https://monsh-git.github.io/TIL/)
