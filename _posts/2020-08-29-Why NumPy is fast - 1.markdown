@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why NumPy is fast"
+title:  "Why NumPy is fast - 1"
 date:   2020-08-29 10:00:00 +0900
 categories: Python
 ---
