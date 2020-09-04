@@ -4,7 +4,7 @@ title:  "np.mean과 np.average의 차이"
 date:   2020-09-02 20:35:00 +0900
 categories: TIL
 ---
-**np.mean은 산술평균을 np.average는 가중평균을 반환한다.**
+# np.mean은 산술평균을 np.average는 가중평균을 반환한다.
 
 np.average에는 weights를 줄 수 있고,  
 weights 없는 가중평균은 산술평균과 값이 같다.  
